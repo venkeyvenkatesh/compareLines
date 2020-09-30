@@ -10,7 +10,19 @@ namespace compareLine
 
 
           LineClass line1 = new LineClass(11, 25, 10, 6);
-           Console.WriteLine("The length of the line is : "+line1.find_length());
+            double lengthOne = line1.find_length();
+           
+            LineClass line2 = new LineClass(21, 25, 10, 6);
+            double lengthTwo = line2.find_length();
+          
+                if(lengthOne.Equals(lengthTwo))
+            {
+                Console.WriteLine("Both the lines are equal");
+            }
+            else
+            {
+                Console.WriteLine("Both the lines are not equal");
+            }
 
         }
     }
