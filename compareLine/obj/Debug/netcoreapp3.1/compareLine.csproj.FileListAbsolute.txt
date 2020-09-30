@@ -10,3 +10,4 @@ C:\Users\Administrator\source\repos\compareLine\compareLine\obj\Debug\netcoreapp
 C:\Users\Administrator\source\repos\compareLine\compareLine\obj\Debug\netcoreapp3.1\compareLine.dll
 C:\Users\Administrator\source\repos\compareLine\compareLine\obj\Debug\netcoreapp3.1\compareLine.pdb
 C:\Users\Administrator\source\repos\compareLine\compareLine\obj\Debug\netcoreapp3.1\compareLine.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\compareLine\compareLine\obj\Debug\netcoreapp3.1\compareLine.csprojAssemblyReference.cache
