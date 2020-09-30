@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\compareLine\compareLine\bin\Debug\netcoreapp3.1\compareLine.exe
+C:\Users\Administrator\source\repos\compareLine\compareLine\bin\Debug\netcoreapp3.1\compareLine.deps.json
+C:\Users\Administrator\source\repos\compareLine\compareLine\bin\Debug\netcoreapp3.1\compareLine.runtimeconfig.json
+C:\Users\Administrator\source\repos\compareLine\compareLine\bin\Debug\netcoreapp3.1\compareLine.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\compareLine\compareLine\bin\Debug\netcoreapp3.1\compareLine.dll
+C:\Users\Administrator\source\repos\compareLine\compareLine\bin\Debug\netcoreapp3.1\compareLine.pdb
+C:\Users\Administrator\source\repos\compareLine\compareLine\obj\Debug\netcoreapp3.1\compareLine.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\compareLine\compareLine\obj\Debug\netcoreapp3.1\compareLine.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\compareLine\compareLine\obj\Debug\netcoreapp3.1\compareLine.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\compareLine\compareLine\obj\Debug\netcoreapp3.1\compareLine.dll
+C:\Users\Administrator\source\repos\compareLine\compareLine\obj\Debug\netcoreapp3.1\compareLine.pdb
+C:\Users\Administrator\source\repos\compareLine\compareLine\obj\Debug\netcoreapp3.1\compareLine.genruntimeconfig.cache
