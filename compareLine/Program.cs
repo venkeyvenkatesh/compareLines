@@ -16,13 +16,13 @@ namespace compareLine
             double lengthTwo = line2.find_length();
 
 
-            int compareResult = lengthOne.CompareTo(lengthTwo);
+            int compareResult = compareLines(lengthOne,lengthTwo);
 
-                if(compareResult==1)
+            if (compareResult == 1)
             {
                 Console.WriteLine("First line is greater than the second line");
             }
-            else if(compareResult==-1)
+            else if (compareResult == -1)
             {
                 Console.WriteLine("First line is lesser than the second line");
             }
@@ -31,6 +31,11 @@ namespace compareLine
                 Console.WriteLine("Both the lines are equal");
             }
 
+        }
+
+        public static int compareLines(double length1,double length2)
+        {
+            return length1.CompareTo(length2);
         }
     }
 }
